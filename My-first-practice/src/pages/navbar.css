@@ -1,0 +1,11 @@
+.navbar{
+display: flex;
+justify-content:space-between;
+
+}
+link{
+    font-weight: bold;
+    margin-right:20px ;
+    font-size: medium;
+    
+}
